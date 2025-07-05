@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishpooniaa
+- 👋 Hi, I’m @ashish poonia
 - 👀 I’m interested in web devloment
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on ...
